@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <className>bridge.Blue</className>
+    <className>bridge.SmallPen</className>
+</config>
